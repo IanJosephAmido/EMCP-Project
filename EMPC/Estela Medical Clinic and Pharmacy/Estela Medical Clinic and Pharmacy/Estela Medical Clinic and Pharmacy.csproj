@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1841EF79-EB0E-420B-ADE9-573E54616E12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Estela_Medical_Clinic_and_Pharmacy</RootNamespace>
+    <AssemblyName>Estela Medical Clinic and Pharmacy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="bggPgSql, Version=2.5.5624.17805, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\bggPgSql.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport, Version=1.2.47.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Bars, Version=1.2.47.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.Bars.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Editor, Version=1.2.47.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Install, Version=1.2.47.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.Install.dll</HintPath>
+    </Reference>
+    <Reference Include="Lib_emcp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="vallib3.6, Version=1.0.4781.28852, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\vallib3.6.dll</HintPath>
+    </Reference>
+    <Reference Include="XPExplorerBar, Version=3.3.0.0, Culture=neutral, PublicKeyToken=26272737b5f33015">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\XPExplorerBar.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccessLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccessLevel.Designer.cs">
+      <DependentUpon>AccessLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAccesLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAccesLevel.Designer.cs">
+      <DependentUpon>AddAccesLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddChargeCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChargeCategory.Designer.cs">
+      <DependentUpon>AddChargeCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admission.Designer.cs">
+      <DependentUpon>Admission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing.Designer.cs">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_log-in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_log-in.Designer.cs">
+      <DependentUpon>frm_log-in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generic.Designer.cs">
+      <DependentUpon>Generic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI Class\Ambiance Theme.cs" />
+    <Compile Include="emcp_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emcp_main.Designer.cs">
+      <DependentUpon>emcp_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI Class\PlayUI Thme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HospitalCharges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HospitalCharges.Designer.cs">
+      <DependentUpon>HospitalCharges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items.Designer.cs">
+      <DependentUpon>Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient.Designer.cs">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Type.Designer.cs">
+      <DependentUpon>Type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities.cs" />
+    <Compile Include="_Urs_Category.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Urs_Category.Designer.cs">
+      <DependentUpon>_Urs_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Urs_Generic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Urs_Generic.Designer.cs">
+      <DependentUpon>_Urs_Generic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_AccessLevel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_AccessLevel.Designer.cs">
+      <DependentUpon>_Usr_AccessLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_Admission.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_Admission.Designer.cs">
+      <DependentUpon>_Usr_Admission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_Supplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_Supplier.Designer.cs">
+      <DependentUpon>_Usr_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_Search_Patient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_Search_Patient.Designer.cs">
+      <DependentUpon>_Usr_Search_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_Billing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_Billing.Designer.cs">
+      <DependentUpon>_Usr_Billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_billing_reports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_billing_reports.Designer.cs">
+      <DependentUpon>_Usr_billing_reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_diagnostics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_diagnostics.Designer.cs">
+      <DependentUpon>_Usr_diagnostics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_employee.Designer.cs">
+      <DependentUpon>_Usr_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_hospital_charges.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_hospital_charges.Designer.cs">
+      <DependentUpon>_Usr_hospital_charges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_items.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_items.Designer.cs">
+      <DependentUpon>_Usr_items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_patient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_patient.Designer.cs">
+      <DependentUpon>_Usr_patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_Philhealth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_Philhealth.Designer.cs">
+      <DependentUpon>_Usr_Philhealth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_UserControls\_Usr_maintenance_new.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main_UserControls\_Usr_maintenance_new.Designer.cs">
+      <DependentUpon>_Usr_maintenance_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_UserControls\_Usr_reports_new.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main_UserControls\_Usr_reports_new.Designer.cs">
+      <DependentUpon>_Usr_reports_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_UserControls\_Usr_transaction_new.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main_UserControls\_Usr_transaction_new.Designer.cs">
+      <DependentUpon>_Usr_transaction_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Usr_type.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Usr_type.Designer.cs">
+      <DependentUpon>_Usr_type.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccessLevel.resx">
+      <DependentUpon>AccessLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAccesLevel.resx">
+      <DependentUpon>AddAccesLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddChargeCategory.resx">
+      <DependentUpon>AddChargeCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admission.resx">
+      <DependentUpon>Admission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing.resx">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emcp_main.resx">
+      <DependentUpon>emcp_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_log-in.resx">
+      <DependentUpon>frm_log-in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generic.resx">
+      <DependentUpon>Generic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HospitalCharges.resx">
+      <DependentUpon>HospitalCharges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items.resx">
+      <DependentUpon>Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient.resx">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Type.resx">
+      <DependentUpon>Type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Urs_Category.resx">
+      <DependentUpon>_Urs_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Urs_Generic.resx">
+      <DependentUpon>_Urs_Generic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_AccessLevel.resx">
+      <DependentUpon>_Usr_AccessLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_Admission.resx">
+      <DependentUpon>_Usr_Admission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_Billing.resx">
+      <DependentUpon>_Usr_Billing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_billing_reports.resx">
+      <DependentUpon>_Usr_billing_reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_Supplier.resx">
+      <DependentUpon>_Usr_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_diagnostics.resx">
+      <DependentUpon>_Usr_diagnostics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_employee.resx">
+      <DependentUpon>_Usr_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_hospital_charges.resx">
+      <DependentUpon>_Usr_hospital_charges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_items.resx">
+      <DependentUpon>_Usr_items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_UserControls\_Usr_maintenance_new.resx">
+      <DependentUpon>_Usr_maintenance_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_patient.resx">
+      <DependentUpon>_Usr_patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_Philhealth.resx">
+      <DependentUpon>_Usr_Philhealth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_UserControls\_Usr_reports_new.resx">
+      <DependentUpon>_Usr_reports_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_Search_Patient.resx">
+      <DependentUpon>_Usr_Search_Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_UserControls\_Usr_transaction_new.resx">
+      <DependentUpon>_Usr_transaction_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Usr_type.resx">
+      <DependentUpon>_Usr_type.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

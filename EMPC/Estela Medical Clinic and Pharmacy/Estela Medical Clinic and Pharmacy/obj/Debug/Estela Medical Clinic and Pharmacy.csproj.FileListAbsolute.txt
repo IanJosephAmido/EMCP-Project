@@ -1,0 +1,168 @@
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe.config
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.emcp_main.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.frm_log_in.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Properties.Resources.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Admission.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Billing.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_billing_reports.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Supplier.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_diagnostics.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_employee.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_hospital_charges.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_items.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_maintenance_new.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_patient.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Philhealth.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_reports_new.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Search_Patient.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_transaction_new.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.exe
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Employee.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ListViewEx.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ObjectListView.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Npgsql.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Mono.Security.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AccessLevel.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_AccessLevel.resources
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe.config
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AccessLevel.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AddAccesLevel.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AddChargeCategory.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Admission.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Billing.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.emcp_main.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Employee.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.frm_log_in.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.HospitalCharges.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Items.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Patient.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Properties.Resources.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Supplier.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_AccessLevel.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Admission.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Billing.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_billing_reports.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Supplier.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_diagnostics.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_employee.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_hospital_charges.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_items.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_maintenance_new.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_patient.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Philhealth.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_reports_new.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Search_Patient.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_transaction_new.resources
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.exe
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\bggPgSql.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Npgsql.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ListViewEx.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ObjectListView.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Mono.Security.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ADODB.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe.config
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.exe
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.pdb
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.pdb
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\bggPgSql.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Npgsql.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ListViewEx.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ObjectListView.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ADODB.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Mono.Security.dll
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.pdb
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csprojResolveAssemblyReference.cache
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AccessLevel.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AddAccesLevel.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AddChargeCategory.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Admission.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Billing.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.emcp_main.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Employee.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.frm_log_in.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.HospitalCharges.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Items.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Patient.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Properties.Resources.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Supplier.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_AccessLevel.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Admission.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Billing.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_billing_reports.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Supplier.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_diagnostics.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_employee.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_hospital_charges.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_items.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_maintenance_new.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_patient.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Philhealth.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_reports_new.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Search_Patient.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_transaction_new.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csproj.GenerateResource.Cache
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe.config
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.exe
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.pdb
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AccessLevel.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AddAccesLevel.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.AddChargeCategory.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Admission.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Billing.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.emcp_main.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Employee.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.frm_log_in.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.HospitalCharges.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Items.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Patient.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Properties.Resources.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Supplier.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_AccessLevel.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Admission.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Billing.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_billing_reports.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Supplier.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_diagnostics.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_employee.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_hospital_charges.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_items.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_maintenance_new.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_patient.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Philhealth.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_reports_new.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_Search_Patient.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_transaction_new.resources
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela Medical Clinic and Pharmacy.csproj.GenerateResource.Cache
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.exe
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Estela Medical Clinic and Pharmacy.pdb
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\bggPgSql.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Npgsql.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ListViewEx.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ObjectListView.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\ADODB.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Mono.Security.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\bin\Debug\Lib_emcp.pdb
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Urs_Category.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Urs_Generic.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy._Usr_type.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Type.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Category.resources
+E:\EMCP Project\EMPC\Estela Medical Clinic and Pharmacy\Estela Medical Clinic and Pharmacy\obj\Debug\Estela_Medical_Clinic_and_Pharmacy.Generic.resources

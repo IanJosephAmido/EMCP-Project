@@ -1,0 +1,25 @@
+E:\EMCP Project\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.csprojResolveAssemblyReference.cache
+E:\EMCP Project\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.dll
+E:\EMCP Project\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.pdb
+E:\EMCP Project\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.dll
+E:\EMCP Project\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.csprojResolveAssemblyReference.cache
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.dll
+C:\Users\Ian Joseph Amido\Desktop\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.pdb
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.csprojResolveAssemblyReference.cache
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.dll
+C:\Users\Ian Joseph Amido\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.pdb
+E:\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.csprojResolveAssemblyReference.cache
+E:\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.dll
+E:\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.pdb
+E:\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.dll
+E:\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.pdb
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\bin\Debug\Lib_emcp.pdb
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.csprojResolveAssemblyReference.cache
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.dll
+C:\Users\amesco\Desktop\EMCP Project\EMPC\Lib_emcp\Lib_emcp\Lib_emcp\obj\Debug\Lib_emcp.pdb
