@@ -129,7 +129,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1105, 43);
+            this.panel1.Size = new System.Drawing.Size(1350, 43);
             this.panel1.TabIndex = 1;
             // 
             // label1
@@ -283,7 +283,7 @@
             this.groupBox2.Controls.Add(this.label5);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox2.Location = new System.Drawing.Point(390, 59);
+            this.groupBox2.Location = new System.Drawing.Point(627, 59);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(703, 152);
             this.groupBox2.TabIndex = 40;
@@ -597,7 +597,7 @@
             this.groupBox5.Controls.Add(this.label22);
             this.groupBox5.Controls.Add(this.label25);
             this.groupBox5.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox5.Location = new System.Drawing.Point(392, 217);
+            this.groupBox5.Location = new System.Drawing.Point(629, 217);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(364, 299);
             this.groupBox5.TabIndex = 40;
@@ -709,7 +709,7 @@
             this.groupBox6.Controls.Add(this.label23);
             this.groupBox6.Controls.Add(this.label24);
             this.groupBox6.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox6.Location = new System.Drawing.Point(762, 217);
+            this.groupBox6.Location = new System.Drawing.Point(999, 217);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(331, 299);
             this.groupBox6.TabIndex = 40;
@@ -784,7 +784,7 @@
             this.groupBox7.Controls.Add(this.textBox12);
             this.groupBox7.Controls.Add(this.label26);
             this.groupBox7.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox7.Location = new System.Drawing.Point(392, 523);
+            this.groupBox7.Location = new System.Drawing.Point(630, 520);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(701, 54);
             this.groupBox7.TabIndex = 40;
@@ -892,7 +892,7 @@
             this.groupBox8.Controls.Add(this.lbl_show_createdby);
             this.groupBox8.Controls.Add(this.lbl_createdby);
             this.groupBox8.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox8.Location = new System.Drawing.Point(12, 583);
+            this.groupBox8.Location = new System.Drawing.Point(257, 640);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Size = new System.Drawing.Size(615, 83);
             this.groupBox8.TabIndex = 40;
@@ -991,7 +991,7 @@
             // 
             this.label31.Font = new System.Drawing.Font("Segoe UI Semilight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.ForeColor = System.Drawing.Color.ForestGreen;
-            this.label31.Location = new System.Drawing.Point(682, 618);
+            this.label31.Location = new System.Drawing.Point(927, 675);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(221, 28);
             this.label31.TabIndex = 109;
@@ -1005,7 +1005,7 @@
             this.btn_close.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_close.Font = new System.Drawing.Font("Segoe UI Semilight", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_close.ForeColor = System.Drawing.Color.White;
-            this.btn_close.Location = new System.Drawing.Point(1004, 620);
+            this.btn_close.Location = new System.Drawing.Point(1249, 677);
             this.btn_close.Name = "btn_close";
             this.btn_close.Size = new System.Drawing.Size(89, 28);
             this.btn_close.TabIndex = 108;
@@ -1020,7 +1020,7 @@
             this.btn_save.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_save.Font = new System.Drawing.Font("Segoe UI Semilight", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_save.ForeColor = System.Drawing.Color.White;
-            this.btn_save.Location = new System.Drawing.Point(909, 620);
+            this.btn_save.Location = new System.Drawing.Point(1154, 677);
             this.btn_save.Name = "btn_save";
             this.btn_save.Size = new System.Drawing.Size(89, 28);
             this.btn_save.TabIndex = 107;
@@ -1033,7 +1033,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1105, 678);
+            this.ClientSize = new System.Drawing.Size(1350, 733);
             this.Controls.Add(this.btn_close);
             this.Controls.Add(this.btn_save);
             this.Controls.Add(this.groupBox8);
